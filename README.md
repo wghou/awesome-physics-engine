@@ -10,6 +10,8 @@ A collection of physics engine.
 
 [NVIDIA Flex](https://github.com/NVIDIAGameWorks/FleX)
 
+[AMD FEMFX](https://github.com/GPUOpen-Effects/FEMFX)
+
 [Jolt Physics](https://github.com/jrouwe/JoltPhysics)
 
 [Godot Engine](https://github.com/godotengine/godot)
