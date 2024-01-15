@@ -25,6 +25,18 @@ A collection of physics engine.
 [SOFA](https://github.com/sofa-framework/sofa) : SOFA is an open source framework targeted at interactive physics simulation based on the Finite Element Method (FEM), with an emphasis on medical simulation and robotics.
 
 
+
+---
+
+### Collistion Detection
+
+[lbvh](https://github.com/ToruNiina/lbvh) : an implementation of parallel linear BVH (LBVH) on GPU.
+
+[Discregrid](https://github.com/InteractiveComputerGraphics/Discregrid) : A static C++ library for the generation of discrete functions on a box-shaped domain. This is especially suited for the discretization of signed distance fields.
+
+
+
+
 ---
 
 ### Position Based Dynamics
@@ -32,3 +44,21 @@ A collection of physics engine.
 [PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics) : PositionBasedDynamics is a library for the physically-based simulation of rigid bodies, deformable solids and fluids.
 
 [raw-physics](https://github.com/felipeek/raw-physics) : Simple rigid-body physics simulator powered by XPBD.
+
+
+
+---
+
+### Fluid
+
+
+---
+
+### Rope / Cable
+
+[Simulating a Rope](https://owlree.blog/posts/simulating-a-rope.html) : a technique blog.
+
+
+---
+
+### Others
